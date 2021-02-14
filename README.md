@@ -5,7 +5,7 @@
 - 💬 Ask me about HTML and CSS.
 
 <p align="center">
-<a href="www.linkedin.com/in/aliferduarte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aliferds" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/aliferduarte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aliferds" height="20" width="20" /></a>
 <a href="https://www.facebook.com/aliferduarte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aliferds" height="20" width="20" /></a>
 <a href="https://www.instagram.com/alifer.ds/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aliferds" height="20" width="20" /></a>
 </p>
