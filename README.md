@@ -78,3 +78,7 @@
     <img alt="pedro duarte instagram" src= "https://img.shields.io/badge/Instagram-%23FE8D83.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </p>
+
+## 🚧 README.md in construction 🚧 ##
+
+This readme.md is in construction
