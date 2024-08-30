@@ -1,13 +1,10 @@
-<div style= "display: flex;
-          justify-content: center;
-          align-items: center;">
 
-  <img 
-    src= "images/selfie.png"
-    width= "200"
-    alt="Alifer's photo"
-  />
-</div>
+<img 
+  src= "images/selfie.png"
+  width= "200"
+  alt="Alifer's photo"
+  style="text-align: center;"
+/>
 
 <br>
 <br>
