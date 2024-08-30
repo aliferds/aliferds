@@ -3,10 +3,8 @@
           align-items: center;">
 
   <img 
-    src= "images/selfie.jpeg"
+    src= "images/selfie.png"
     width= "200"
-    style= "border-radius: 50%;
-            border: 5px solid #000;"
     alt="Alifer's photo"
   />
 </div>
