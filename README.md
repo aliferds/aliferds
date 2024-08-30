@@ -1,10 +1,11 @@
 
+<div align="center">
 <img 
   src= "images/selfie.png"
   width= "200"
   alt="Alifer's photo"
-  style="text-align: center;"
 />
+</div>
 
 <br>
 <br>
