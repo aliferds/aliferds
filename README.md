@@ -107,7 +107,7 @@
 
 ## 💼 Portfolio ##
 
-![Click hero to see my personal portfolio website](https://www.aliferdev.digital)
+[Click hero to see my personal portfolio website](https://www.aliferdev.digital)
 
 
 ## 🔗 Connect with me: ##
